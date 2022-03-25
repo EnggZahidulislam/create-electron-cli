@@ -1,0 +1,28 @@
+{
+	"name": "create-electron-cli",
+	"version": "1.0.2",
+	"type": "module",
+	"main": "index.js",
+	"bin": {
+		"create-electron": "index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"keywords": [],
+	"description": "",
+	"dependencies": {
+		"@types/commander": "^2.12.2",
+		"chalk": "^5.0.1",
+		"commander": "^9.1.0",
+		"conf": "^10.1.1",
+		"figlet": "^1.5.2",
+		"fs-extra": "^10.0.1",
+		"gradient-string": "^2.0.0",
+		"inquirer": "^8.2.2",
+		"nanospinner": "^1.0.0",
+		"node-fetch": "^3.2.3"
+	}
+}
