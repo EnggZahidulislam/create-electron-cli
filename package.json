@@ -14,9 +14,7 @@
 	"keywords": [],
 	"description": "",
 	"dependencies": {
-		"@types/commander": "^2.12.2",
 		"chalk": "^5.0.1",
-		"commander": "^9.1.0",
 		"conf": "^10.1.1",
 		"figlet": "^1.5.2",
 		"fs-extra": "^10.0.1",
